@@ -4,10 +4,10 @@
     "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
     "keywords": [],
     "documentation-link": "https://cypherxbot.vercel.app",
-    "owner-verification": "tylor9kid@gmail.com", 
+    "owner-verification": "mbanemew9@gmail.com", 
   "env": {
     "SESSION_ID": {
-      "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
+      "description": "CYPHER-X:~UEsDBBQAAAgIAHuKmFoEZYiVHQUAAAAJAAAKAAAAY3JlZHMuanNvbpVVaY+qSBT9K5P6qj1sspl0MiwKiigorpPJpIACkVUoUHzxv0*Q7ulO3jI93yq1nHvuveee+gayPKqQgVow*AaKMmogRt0StwUCQyDXQYBK0Ac+xBAMwd7a9lw0vp1MLdPJedXgZXpAe*KyzDRvmicO0usqWsBVIr2Cex8UtZtE3i8AKzhOCXs+mt0KX817bMWb19NIv6F8PgqvgrlnjW3oj+vEDl*BvUOEURll4ag4ohSVMDFQa8Go*Br9nqU2zZVx9VOYcoslcTSKmTnbrdcqq+uLa2vMOHbKUjuLrr5Gn2PwiLwkOrW2e2N2PzjfmJzoLQ6OXWgDdIrc7OQft7pLn+wn*SoKM+RPfJThCLdfrjupTuqbIZbXuakc4EBiSQM3vjW1bC8Xdqro5hbH1ptRQedfI74pHdGDZuAKOwbGMlMKE6Rr6pxMJ1dnyhrtYn9imUPFZOvPxK3yXSvx*6k7bZU5JcVznqP3maAV4hwLqbI8+qy1T4gFr6eVsQlJR9fNr9GPuc1YmaO2sonIrBqqd3bDlUCKs8VaOlTbjOQHkoZCQlcmH*QhrstfsTzh9HwWl27ebvVi71j8dTA+i656Wk53hapN6J1DXHGmmoHGpStKgm2ixTYh5svNcUkGe3q1DTfp1u9x4raF9FUNxtPo8vrIKEbtxAdD6t4HJQqjCpcQR3n22GP5PoB+s0JeifCjvICgtxtbsWjvdG4Tk+flhjKabdQgD0aJtV5fdTNYCNta0eJX0AdFmXuoqpCvRxXOy9ZEVQVDVIHhn49OdUmXKM0xmkZ+1w9mwJMMydEcORD+qH6*HCGuYFH8niEM+iAo89REYIjLGvXB4wUrCyrJyKwo0KxMc5QsszTDUaIgKwo7kMddjukzqhOlqMIwLcCQ4gcsS7GUyN7*6oMMXfFTQF3aDNUHQVRWeJ3VRZJD*11d74fQ8*I6w6s285RugUowJD+2EcZRFlZdanUGS+8YNUjp8gDDACYVuveBj5rIQx0eMPaOcfV2rrOCL3s25JNC+rsIu9Id8+x5ReCgyLAe*UIJ9OBlwDLUi8BC7oX3PJcTKVEgaR905XjObvfmp1JyOIjm0kSsLiK1VuTpRrKVhUaG6ehpLE8NoBL571V2oRfXhZPHKPsFLoShSAz47TrRZ845DuLDkituDX*emJ9wn9oCw28ffqnkfofH71R9tlRV0HWri*O9HIYD*ntFZLC7DhTSR7*JJTOIH6SS52uKYhiSYgWS50iS6t53B*d*W9XF8RGGUVJ1GAvVDCeD0chwk7MnaZoUh5ISSuCjte+z+pyFA89pfnXkvKI5jF2K0eNDw1j1QXYTpFuUTI6jDRYborFHrz8A6ZovXhaShG*iXFJ2iSWN1bTB81nWHj1i0dvxZbwZewSeH3m+sc9SwPaIGapKtJg5UYTNg6WlQsnr1voUrDxmW++me1K2X7toT4l9DjYuGcfs1Spj7YxR7F3qA9*qGO29TL9MGQpOktHSWwvhbHa1e61EHDx1nS2PNJP1vFkRXMVebWqOQAz4uX0OqcNmZt5O0tNFHi6WvP0e0dt8PwUZROhhxm+d+u+WfgwHee9*Annz958IUN6i3jFzJygzXHq5Ff0rq7nijU*tLbs73kTbl*eJG7gET8rg3k19kUAc5GXaffapC0EflHndje4kC*JfRFLkyUQKn3knsMLShx38wGEE4XnLKvNCh9URDEGWMrLbCb2VimKFIX43FyAplSQZUgDu*wBQSwECFAMUAAAICAB7iphaBGWIlR0FAAAACQAACgAAAAAAAAAAAAAAgIEAAAAAY3JlZHMuanNvblBLBQYAAAAAAQABADgAAABFBQAAAAA=",
       "value": "",
       "required": false
     }
